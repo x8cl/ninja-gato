@@ -1,0 +1,1 @@
+Ninja a Gato "Aplicaciones Full Stack Python Trainee - INACAP - 2021"
